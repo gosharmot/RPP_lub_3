@@ -27,8 +27,8 @@ public class MainActivity extends AppCompatActivity {
         db.addStudent(new Student("Osadchuk Georgii Miroslavovich", dateString.toString()));
         db.addStudent(new Student("Gorelkin Alexander Sergeevich", dateString.toString()));
         db.addStudent(new Student("Nefedov Andrey Andreevich", dateString.toString()));
-        db.addStudent(new Student("Shekurov Leonid Alexeevich", dateString.toString()));
-        db.addStudent(new Student("Politsyna Maria Valerievna", dateString.toString()));
+        db.addStudent(new Student("Reznikov Pavel Sergeevich", dateString.toString()));
+        db.addStudent(new Student("Krasnov Sergeyi Alexandrovich", dateString.toString()));
     }
 
     private void addListenerOnButton() {
